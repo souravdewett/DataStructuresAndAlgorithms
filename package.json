@@ -1,0 +1,30 @@
+{
+  "name": "datastructureandalgorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravdewett/DataStructuresAndAlgorithms.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Algorithms",
+    "Javascript",
+    "coding",
+    "practice"
+  ],
+  "author": "Sourav Dewett",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "bugs": {
+    "url": "https://github.com/souravdewett/DataStructuresAndAlgorithms/issues"
+  },
+  "homepage": "https://github.com/souravdewett/DataStructuresAndAlgorithms#readme"
+}
